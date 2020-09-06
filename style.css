@@ -1,0 +1,166 @@
+h1{
+    color:rgb(120,75,120);
+    border-block: 10px;
+    align-content: center;
+    border-block-start-color: crimson;
+    
+}
+.info{
+    border: rebeccapurple;
+    border:solid;
+    color: darkgoldenrod;
+    border-block-start-width: 2mm;
+    align-self: center;
+    font-size:25px;
+    
+    
+}
+.about{
+    color: darkmagenta;
+    border-block-start-width: 0mm;
+    align-items: center;
+}
+.portfolio{
+    background-color:darkgray ;
+    display:grid;
+    justify-content: space-between;
+    border-block-color:magenta;
+    border-block: 20px;
+    border:solid;
+}
+.ponggame{
+    color:blueviolet;
+    border: cyan;
+    border:solid;
+    margin-left: 500px;
+}
+.trex{
+    color:chartreuse;
+    border: darkgoldenrod;
+    border:solid;
+    margin-left: 500px;
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+.junglehunt{
+    color:crimson;
+    border: rgb(228, 41, 228);
+    border:solid;
+    margin-left: 500px;
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+.fruitninja{
+    color:slateblue;
+    border: springgreen;
+    border:solid;
+    margin-left: 500px;
+    margin-top:50px;
+    margin-bottom: 50px;
+
+}
+.newtonscradle{
+ color:darkcyan;
+ border:rosybrown;
+ border:solid;
+ margin-left: 500px;
+ margin-top:50px;
+ margin-bottom: 50px;
+}
+.archery{
+    color:navy;
+    border:lightcoral;
+    border:solid;
+    margin-left: 500px;
+    margin-top:50px;
+    margin-bottom: 50px;
+
+}
+.bouncyworld{
+    color:seagreen;
+    border:fuchsia;
+    border:solid;
+    margin-left: 500px;
+    margin-top:50px;
+    margin-bottom: 50px;
+
+
+}
+.basiccarrom{
+ color:darkkhaki;
+border: darkred;
+border:solid;
+margin-left: 500px;
+margin-top:50px;
+margin-bottom: 50px;
+}
+.maze{
+    color:indigo;
+    border:chocolate;
+    border:solid;
+    margin-left: 500px;
+    margin-top:50px;
+    margin-bottom: 50px;
+
+}
+.plinko{
+    color:skyblue;
+    border:navy;
+    border:solid;
+    margin-left: 500px;
+    margin-top:50px;
+    margin-bottom: 50px;
+
+}
+.carracing{
+    color:burlywood;
+    border:plum;
+    border:solid;
+    margin-left: 500px;
+    margin-top:50px;
+    margin-bottom: 50px;
+
+}
+.angrybirds{
+    color:yellowgreen;
+    border:lightgreen;
+    border:solid;
+    margin-left: 500px;
+    margin-top:50px;
+    margin-bottom: 50px;
+
+
+}
+.spaceshooter{
+    color:palevioletred;
+    border:gold;
+    border:solid;
+    margin-left: 500px;
+    margin-top:50px;
+    margin-bottom: 50px;
+
+
+}
+.airhockey{
+    color:green;
+    border:tomato;
+    border:solid;
+    margin-left: 500px;
+    margin-top:50px;
+    margin-bottom: 50px;
+
+}
+h1{
+    padding:50px;
+    margin-left: 480px;
+    color:purple;
+    font-size: 50px;
+}
+
+a:link{
+    color: green;
+}
+
+a:visited{
+    color:palevioletred;
+}
